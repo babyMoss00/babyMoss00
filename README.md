@@ -57,7 +57,7 @@ I'm a machine vision engineer with hands-on experience building industrial inspe
 ## 📫 How to Reach Me
 
 - 📧 Email: [babymoss00@gmail.com]
-- 💼 LinkedIn: [ruoping Chen]
+- 💼 LinkedIn: [Ruoping Chen]
 - 📝 WeChat Official Account: [Grimes_X]
 
 ---
