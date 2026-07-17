@@ -8,7 +8,7 @@ I'm a machine vision engineer with hands-on experience building industrial inspe
 💼 Machine Vision Engineer @ [Shenzhen Everwin Precision Technology Co., Ltd] — developing image processing algorithms for quality control  
 🎯 Pursuing graduate studies in AI / Computer Vision  
 🌱 Currently learning: PyTorch, YOLO, Deep Learning for Visual Inspection  
-🌍 Languages: Chinese (Native) · English (CET-6) · Japanese (N5)
+🌍 Languages: English · Chinese  · Japanese (N5)
 
 ---
 
