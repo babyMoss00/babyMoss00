@@ -15,10 +15,10 @@ I build visual inspection systems that run on real production lines, and I'm inc
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Mapwright](https://github.com/babyMoss00/mapwright)** | Converts structured DXF floor plans into ROS-ready occupancy maps (PGM + YAML), so a robot can get an initial navigation map without first running SLAM. Two-person project — I built the FastAPI backend, the browser upload/preview/edit flow, the confirmation-gated natural-language editing, and the Docker + pytest setup. | Python · FastAPI · Docker · pytest · ROS · DXF |
+| **[lens-bench](https://github.com/babyMoss00/lens-bench)** | A web-based lens and sensor selection bench for machine vision and OEM camera modules. Exact thin-lens computation, side-by-side multi-sensor comparison, AI-assisted datasheet parsing, and CSV export. All calculation runs locally and deterministically; AI extraction is optional and uses your own API key. | JavaScript · Node.js · pdf.js · LLM APIs |
 | **[opencv-llm-quality-inspection](https://github.com/babyMoss00/opencv-llm-quality-inspection)** | Few-shot visual inspection pipeline that routes low-confidence samples to a multimodal LLM for a second-pass judgment, with structured prompting to suppress hallucination. | Python · OpenCV · DINOv2 · Multimodal LLM API |
+| **[Mapwright](https://github.com/babyMoss00/mapwright)** | Converts structured DXF floor plans into ROS-ready occupancy maps (PGM + YAML), so a robot can get an initial navigation map without first running SLAM. Two-person project — I built the FastAPI backend, the browser upload/preview/edit flow, the confirmation-gated natural-language editing, and the Docker + pytest setup. | Python · FastAPI · Docker · pytest · ROS · DXF |
 | **Motion retargeting: video → humanoid robot** | End-to-end reproduction of an open-source pipeline: video-based human pose estimation → parametric body modeling → motion retargeting → Unitree G1 visualization. Ran every stage myself on a cloud RTX 4090; the interesting part was the multi-framework environment and dependency resolution. | Python · PyTorch · SMPL-X · Isaac Gym |
-| *(add your third public repo here)* | | |
 
 ---
 
@@ -31,4 +31,3 @@ I build visual inspection systems that run on real production lines, and I'm inc
 ---
 
 *Open to AI / CV opportunities and collaboration.*
-
