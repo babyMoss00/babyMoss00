@@ -5,7 +5,7 @@ I build visual inspection systems that run on real production lines, and I'm inc
 
 - 🔭 **Currently:** industrial defect detection at a precision manufacturing company — dataset construction, YOLO training, and on-line deployment
 - 🧪 **Exploring:** multimodal LLMs in industrial vision, spatial intelligence, embodied AI
-- 📄 **Paper:** second author on *MFMR*, a benchmark for evidence-grounded multimodal reasoning over heterogeneous file bundles — accepted as a full-length paper at WiCV @ ECCV 2026
+- 📄 **Paper:** second author on *MFMR*, a benchmark for evidence-grounded multimodal reasoning over heterogeneous file bundles — accepted as a oral paper at WiCV @ ECCV 2026
 - 🎓 B.E. in Robotics Engineering
 - 📧 babymoss00@gmail.com
 
